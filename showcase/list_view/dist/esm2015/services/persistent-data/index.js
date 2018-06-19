@@ -1,0 +1,12 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes} checked by tsc
+ */
+export { PersistentDataModule } from './persistent-data.module';
+export { PersistentDataService, PersistentDataStorageType } from './persistent-data.service';
+export { StorageAdapter } from './adapters/storage-adapter';
+export { CookieAdapter } from './adapters/cookie-adapter';
+export { LocalStorageAdapter } from './adapters/local-storage-adapter';
+export { SessionStorageAdapter } from './adapters/session-storage-adapter';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290Ijoibmc6Ly9AdXgtYXNwZWN0cy91eC1hc3BlY3RzLyIsInNvdXJjZXMiOlsic2VydmljZXMvcGVyc2lzdGVudC1kYXRhL2luZGV4LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7QUFBQSxxQ0FBYywwQkFBMEIsQ0FBQztBQUN6QyxpRUFBYywyQkFBMkIsQ0FBQztBQUMxQywrQkFBYyw0QkFBNEIsQ0FBQztBQUMzQyw4QkFBYywyQkFBMkIsQ0FBQztBQUMxQyxvQ0FBYyxrQ0FBa0MsQ0FBQztBQUNqRCxzQ0FBYyxvQ0FBb0MsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCAqIGZyb20gJy4vcGVyc2lzdGVudC1kYXRhLm1vZHVsZSc7XHJcbmV4cG9ydCAqIGZyb20gJy4vcGVyc2lzdGVudC1kYXRhLnNlcnZpY2UnO1xyXG5leHBvcnQgKiBmcm9tICcuL2FkYXB0ZXJzL3N0b3JhZ2UtYWRhcHRlcic7XHJcbmV4cG9ydCAqIGZyb20gJy4vYWRhcHRlcnMvY29va2llLWFkYXB0ZXInO1xyXG5leHBvcnQgKiBmcm9tICcuL2FkYXB0ZXJzL2xvY2FsLXN0b3JhZ2UtYWRhcHRlcic7XHJcbmV4cG9ydCAqIGZyb20gJy4vYWRhcHRlcnMvc2Vzc2lvbi1zdG9yYWdlLWFkYXB0ZXInOyJdfQ==

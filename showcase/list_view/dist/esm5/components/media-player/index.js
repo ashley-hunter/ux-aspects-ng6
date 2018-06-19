@@ -1,0 +1,11 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes} checked by tsc
+ */
+export { MediaPlayerModule } from './media-player.module';
+export { MediaPlayerComponent } from './media-player.component';
+export { MediaPlayerBaseExtensionDirective } from './extensions/base-extension.directive';
+export { MediaPlayerControlsExtensionComponent } from './extensions/controls/controls.component';
+export { MediaPlayerTimelineExtensionComponent } from './extensions/timeline/timeline.component';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290Ijoibmc6Ly9AdXgtYXNwZWN0cy91eC1hc3BlY3RzLyIsInNvdXJjZXMiOlsiY29tcG9uZW50cy9tZWRpYS1wbGF5ZXIvaW5kZXgudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7OztBQUFBLGtDQUFjLHVCQUF1QixDQUFDO0FBQ3RDLHFDQUFjLDBCQUEwQixDQUFDO0FBQ3pDLGtEQUFjLHVDQUF1QyxDQUFDO0FBQ3RELHNEQUFjLDBDQUEwQyxDQUFDO0FBQ3pELHNEQUFjLDBDQUEwQyxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0ICogZnJvbSAnLi9tZWRpYS1wbGF5ZXIubW9kdWxlJztcclxuZXhwb3J0ICogZnJvbSAnLi9tZWRpYS1wbGF5ZXIuY29tcG9uZW50JztcclxuZXhwb3J0ICogZnJvbSAnLi9leHRlbnNpb25zL2Jhc2UtZXh0ZW5zaW9uLmRpcmVjdGl2ZSc7XHJcbmV4cG9ydCAqIGZyb20gJy4vZXh0ZW5zaW9ucy9jb250cm9scy9jb250cm9scy5jb21wb25lbnQnO1xyXG5leHBvcnQgKiBmcm9tICcuL2V4dGVuc2lvbnMvdGltZWxpbmUvdGltZWxpbmUuY29tcG9uZW50JzsiXX0=

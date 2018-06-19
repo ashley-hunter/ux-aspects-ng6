@@ -1,0 +1,11 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes} checked by tsc
+ */
+export { VirtualScrollModule } from './virtual-scroll.module';
+export { VirtualScrollComponent } from './virtual-scroll.component';
+export { VirtualScrollLoadingDirective } from './directives/virtual-scroll-loading.directive';
+export { VirtualScrollLoadButtonDirective } from './directives/virtual-scroll-load-button.directive';
+export { VirtualScrollCellDirective } from './directives/virtual-scroll-cell.directive';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290Ijoibmc6Ly9AdXgtYXNwZWN0cy91eC1hc3BlY3RzLyIsInNvdXJjZXMiOlsiY29tcG9uZW50cy92aXJ0dWFsLXNjcm9sbC9pbmRleC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7O0FBQUEsb0NBQWMseUJBQXlCLENBQUM7QUFDeEMsdUNBQWMsNEJBQTRCLENBQUM7QUFDM0MsOENBQWMsK0NBQStDLENBQUM7QUFDOUQsaURBQWMsbURBQW1ELENBQUM7QUFDbEUsMkNBQWMsNENBQTRDLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgKiBmcm9tICcuL3ZpcnR1YWwtc2Nyb2xsLm1vZHVsZSc7XHJcbmV4cG9ydCAqIGZyb20gJy4vdmlydHVhbC1zY3JvbGwuY29tcG9uZW50JztcclxuZXhwb3J0ICogZnJvbSAnLi9kaXJlY3RpdmVzL3ZpcnR1YWwtc2Nyb2xsLWxvYWRpbmcuZGlyZWN0aXZlJztcclxuZXhwb3J0ICogZnJvbSAnLi9kaXJlY3RpdmVzL3ZpcnR1YWwtc2Nyb2xsLWxvYWQtYnV0dG9uLmRpcmVjdGl2ZSc7XHJcbmV4cG9ydCAqIGZyb20gJy4vZGlyZWN0aXZlcy92aXJ0dWFsLXNjcm9sbC1jZWxsLmRpcmVjdGl2ZSc7Il19
